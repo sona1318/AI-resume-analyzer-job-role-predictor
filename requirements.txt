@@ -4,3 +4,4 @@ scikit-learn
 pandas
 numpy
 xhtml2pdf
+matplotlib
